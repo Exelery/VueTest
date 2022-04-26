@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-crash
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# VueTest
+>>>>>>> 78e2b98 (Initial commit)
